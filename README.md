@@ -38,3 +38,20 @@ A simple currency converter web application built with Flask, AJAX, and an exter
 
    ```bash
    git clone https://github.com/yourusername/currency-converter.git
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Set your CurrencyAPI key as an environment variable:   
+   ```bash
+   export API_KEY=your_currencyapi_key
+   Replace your currency api_key with your actual API key
+4. Run the Flask application:
+   ```bash
+   flask run
+   The application should be accessible at http://127.0.0.1:5000.
+### Usage
+1. Open the application in your web browser.
+3. Enter the target currency in the input field.
+4. Click "Get Exchange Rate" to see the conversion result.
+
+   
