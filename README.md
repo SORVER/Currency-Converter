@@ -1,6 +1,7 @@
 # Currency Converter
 
 A simple currency converter web application built with Flask, AJAX, and an external currency conversion API.
+![Currency Converter Logo](/images/photo.png)
 
 ## Features
 
